@@ -1,0 +1,26 @@
+{
+  "name": "markdown-node",
+  "version": "1.0.0",
+  "description": "Realtime markdown editor and viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gfting/markdown-node.git"
+  },
+  "keywords": [
+    "\"markdown\""
+  ],
+  "author": "Gabriel Ting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gfting/markdown-node/issues"
+  },
+  "homepage": "https://github.com/gfting/markdown-node#readme",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
